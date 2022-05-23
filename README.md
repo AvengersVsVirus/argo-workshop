@@ -29,6 +29,8 @@ Create a group for all participants and allow them to create ArgoCD Instances (Y
 - create a namespace for your `ArgoCD` Instance
   - `oc new-project userX-argo`
 
+
+
 ## Deploying your ArgoCD Instance
 
 - Change the name of your ArgoCD Instance
