@@ -8,7 +8,7 @@ metadata:
     gitops.type: app-of-apps
 spec:
   destination:
-    namespace: user1-sharry
+    namespace: user30-sharry
     server: https://kubernetes.default.svc
   project: default
   source:
