@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: ArgoCD
 metadata:
-  name: argocd-userx
+  name: argocd-user30
 spec:
   applicationInstanceLabelKey: argocd.argoproj.io/argocd-userx
   dex:
