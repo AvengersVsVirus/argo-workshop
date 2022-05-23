@@ -13,7 +13,7 @@ spec:
   project: default
   source:
     path: manifests/apps/sharry/base/apps
-    repoURL: https://github.com/PixelJonas/argo-workshop.git
+    repoURL: https://github.com/AvengersVsVirus/argo-workshop.git
     targetRevision: main
   syncPolicy:
     syncOptions:
